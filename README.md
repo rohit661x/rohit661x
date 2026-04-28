@@ -1,6 +1,6 @@
 ## Hey, I'm Rohit 👋
 
-Math & Statistics student at McMaster University interested in AI, statistics, and systems engineering.
+Math & Statistics student at McMaster University interested in AI, statistics, finance and systems engineering.
 
 ### Most Used Languages
 
