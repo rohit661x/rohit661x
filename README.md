@@ -1,6 +1,8 @@
 ## Hey, I'm Rohit 👋
 
-Math & Statistics student at McMaster University interested in AI, statistics, finance and systems engineering.
+I’m an undergraduate student in Mathematics & Statistics interested in machine learning and artificial intelligence, particularly applications in Deep Learning, Meta Learning, NLP, and Time-Series modelling. I am especially drawn to work that leverages AI within finance, software, & research. 
+
+On the side, I’m a passionate hobbyist in brain-computer interfaces, neuro-AI, as well as low-latency systems for HFT, and I enjoy learning more about and building projects in each of these areas. 
 
 ### Most Used Languages
 
