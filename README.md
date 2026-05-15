@@ -7,10 +7,9 @@ On the side, I’m a hobbyist in brain-computer interfaces, neuro-AI, and low-la
 ## Most Used Languages
 
 <p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit661x&layout=compact&theme=default&hide_border=false"
-    alt="Top Languages"
-  />
+  <a href="https://github.com/rohit661x">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit661x&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Most Used Languages" />
+  </a>
 </p>
 
 ## Tech Stack
