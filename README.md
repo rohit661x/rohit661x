@@ -1,16 +1,8 @@
 ## Hey, I'm Rohit 👋
 
-I’m an undergraduate student in Mathematics & Statistics interested in machine learning and artificial intelligence, particularly applications in Deep Learning, Meta Learning, NLP, and Time-Series modelling. I am especially drawn to work that leverages AI within finance, software, and research.
+I’m an undergraduate student in Mathematics & Statistics interested in machine learning and artificial intelligence, particularly applications in deep learning, meta-learning, NLP, and time-series modelling. I am especially drawn to work that applies AI within finance, software, and research.
 
-On the side, I’m a hobbyist in brain-computer interfaces, neuro-AI, and low-latency systems for HFT, and I enjoy learning more about and building projects in each of these areas.
-
-## Most Used Languages
-
-<p align="left">
-  <a href="https://github.com/rohit661x">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit661x&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Most Used Languages" />
-  </a>
-</p>
+On the side, I’m a hobbyist in brain-computer interfaces, neuro-AI, and low-latency systems for HFT. I enjoy learning about and building projects in each of these areas.
 
 ## Tech Stack
 
